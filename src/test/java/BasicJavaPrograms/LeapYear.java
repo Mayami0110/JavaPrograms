@@ -6,6 +6,7 @@ public class LeapYear {
 
 	public static void main(String[] args) {
 
+		//to find out entered number is leap year or not
 		
 		Scanner reader = new Scanner(System.in);
 		

@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class VowelOrConsonent {
 
+	// to find out entered char is vowel or consonent
+	
 	public static void main(String[] args) {
 		//Vowel - A E I O U
 

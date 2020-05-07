@@ -4,6 +4,8 @@ public class QuotientAndReminder {
 
 	public static void main(String[] args) {
 		
+		//to find out Quotient And Reminder
+		
 		int divident = 30;
 		int divisor = 6;
 		

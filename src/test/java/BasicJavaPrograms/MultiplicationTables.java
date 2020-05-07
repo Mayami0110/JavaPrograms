@@ -4,7 +4,8 @@ public class MultiplicationTables {
 
 	public static void main(String[] args) {
 
-
+		// print multiplication table
+		
 		int num = 2;
 		
 		

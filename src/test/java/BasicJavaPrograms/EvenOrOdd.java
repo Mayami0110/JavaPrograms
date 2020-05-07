@@ -6,6 +6,7 @@ public class EvenOrOdd {
 
 	public static void main(String[] args) {
 
+		// find num is even or odd 
 		Scanner reader = new Scanner(System.in);
 		
 		System.out.println("Enter the number : ");

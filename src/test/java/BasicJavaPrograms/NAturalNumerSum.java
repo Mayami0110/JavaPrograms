@@ -2,6 +2,9 @@ package BasicJavaPrograms;
 
 public class NAturalNumerSum {
 
+	
+	// Sum of natural number 
+	
 	public static void main(String[] args) {
 
 		int num = 100;

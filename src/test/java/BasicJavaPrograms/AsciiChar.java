@@ -4,6 +4,7 @@ public class AsciiChar {
 
 	public static void main(String[] args) {
 
+		// print the ascii of char
 		
 		char c = 'A';
 		
