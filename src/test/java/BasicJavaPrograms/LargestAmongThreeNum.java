@@ -4,7 +4,7 @@ public class LargestAmongThreeNum {
 
 	public static void main(String[] args) {
 	
-		//find out largest amoung 3 num
+		//find out largest among 3 num
 		
 		int x =100;
 		int y = 200;
